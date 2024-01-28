@@ -39,5 +39,3 @@ We welcome contributions! Fork the repo, make your changes, and submit a pull re
 
 BeeMeme is licensed under the [MIT License](./LICENSE).
 ```
-
-Feel free to customize the content based on your project's specific details, guidelines, and any additional information you want to convey.
